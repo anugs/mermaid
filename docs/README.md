@@ -22,10 +22,10 @@ The main purpose of Mermaid is to help with Visualizing Documentation, and helpi
 > Documentation-Rot is a Catch-22 that Mermaid helps to solve.
 
 Diagramming and Documentation costs precious developer time and gets outdated quickly.
-But not having diagrams or docs ruins productivity and hurts organizational learning.
+But not having diagrams or documentation ruins productivity and hurts organizational learning.
 
-Mermaid addresses this Catch-22 by cutting the time, effort and tooling that is required to create modifiable diagrams and charts, for smarter and more reusable content.
-Mermaid, as a text-based diagramming tool allows for quick and easy updates, it can also be made part of production scripts (and other pieces of code), to make documentation much easier.
+Mermaid addresses this Catch-22 situation by reducing the time, effort and tools required to create modifiable diagrams and charts, for smarter and more reusable content.
+Mermaid, as a text-based diagramming tool allows for quick and easy updates thus making documentation much easier. It can also be included in production scripts (and other pieces of code). 
 
 > Mermaid is a Diagramming tool for everyone.
 
@@ -212,8 +212,7 @@ To Deploy Mermaid:
 
 ## Request for Assistance
 
-Things are piling up and I have a hard time keeping up. To remedy this
-it would be great if we could form a core team of developers to cooperate
+Things are piling up and I have a hard time keeping up. It would be great if we could form a core team of developers to cooperate
 with the future development of mermaid.
 
 As part of this team you would get write access to the repository and would
